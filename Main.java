@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TvSettings {
+public class Main {
     public static Scanner input;
     static Television tv;
     public static void main(String[] args) {
