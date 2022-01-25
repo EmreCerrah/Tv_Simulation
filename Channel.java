@@ -1,4 +1,4 @@
-public class Channel {
+public abstract class Channel {
     static int no;
     private String name;
     private long frequency;
@@ -8,10 +8,7 @@ public class Channel {
         no++;
 
     }
-    public void ChannelInfo (){
-        System.out.println(" Numaralı "+name+" kanalını izliyorsunuz. frekans numarası "+ frequency );
-    }
-
+    public abstract void ChannelInfo ();
     public static int getNo() {
         return no;
     }
