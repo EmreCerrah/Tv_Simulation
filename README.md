@@ -6,7 +6,7 @@ Java'da nesne yönelimli programlama eğitimimi geliştirmek için yaptığım a
 ---
 - **You should use to link for clone the project.**
 *Öncelikle projeyi clonelamak için linki kullanın*
->https://github.com/EmreCerrah/Blackjack.git
+>https://github.com/EmreCerrah/Tv_Simulation.git
 - **You must open Visual Studio Code or another IDE after cloning**
 *Projeyi cloneladıktan sonra Visual Studio Code yada başka bir ide programında açınız.*
 - **Use "Main" to run the project.**
