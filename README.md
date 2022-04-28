@@ -1,6 +1,7 @@
 # Television Simulator
 ---
-Java'da nesne yönelimli programlama eğitimimi geliştirmek için yaptığım alıştırma.
+
+A practice I did to improve my experience in object-oriented programming in Java.
 
 # Installation
 ---
